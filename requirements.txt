@@ -1,0 +1,9 @@
+PyYAML
+ftfy 
+regex 
+tqdm
+traitlets
+pygments
+jupyterlab
+pinecone-client
+git+https://github.com/openai/CLIP.git
